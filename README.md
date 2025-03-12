@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @AdoredPilot
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning linux,java,c++
-- 📫 How to reach me: Discord (AdoredPilot#4489)
+
